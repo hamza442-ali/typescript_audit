@@ -1,0 +1,55 @@
+{
+  "Buttons": {
+    "view": "View",
+    "submit": "Submit",
+    "viewDetails": "Details",
+    "makePayment": "Pay",
+    "viewPayments": "Payments",
+    "makeCounterOffer": "Counter",
+    "viewCounterOffers": "Counters",
+    "counterOfferViewDetails": "Details",
+    "counterOfferAccept": "Accept",
+    "counterOfferReject": "Reject",
+    "loanSendFunds": "Send Funds",
+    "loanSendCollateral": "Send Collateral"
+  },
+  "Tabs": {
+    "allOffers": "All Lender Offers",
+    "allRequests": "All Borrower Offers",
+    "loanOffers": "Lender Offers",
+    "loanRequests": "Borrower Offers",
+    "loansInDefault": "Loans in Default",
+    "makeAnOffer": "Make a Lender Offer",
+    "makeARequest": "Make a Borrower Offer",
+    "myOffers": "My Lender Offers",
+    "myRequests": "My Borrower Offers",
+    "myLoans": "My Loans"
+  },
+  "Descriptions": {
+    "loanOffers": "View offers from lenders, view lending offers you've created, or make a new offer",
+    "loanRequests": "View offers from borrowers, view borrower offers you've created, or request a new loan",
+    "loansInDefault": "Find and purchase loans that are in default"
+  },
+  "Titles": {
+    "loanDetails": "Loan Details",
+    "offerDetails": "Offer Details",
+    "makePayment": "Make a Payment",
+    "paymentsList": "Payments",
+    "paymentDetail": "Payment Details",
+    "countersList": "Counter Offers",
+    "makeCounterOffer": "Make a Counter Offer",
+    "editCounterOffer": "Edit Counter Offer",
+    "collateralForm": "Add Collateral",
+    "fundingForm": "Add Loan Funds"
+  },
+  "Notifications": {
+    "counterOfferRejected": "Counter offer rejected",
+    "counterOfferAccepted": "Counter offer accepted",
+    "loanFundsRequired": "Loan funds required",
+    "loanFundsReceived": "Loan funds received",
+    "collateralRequired": "Collateral required",
+    "collateralReceived": "Collateral received",
+    "paymentReceived": "Payment received",
+    "loanContractExpired": "Loan contract expired"
+  }
+}
